@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-privacy",
-  "version": "1.0.115",
+  "version": "1.0.116",
   "description": "Description for solidity-privacy",
   "main": "src/index.js",
   "scripts": {
